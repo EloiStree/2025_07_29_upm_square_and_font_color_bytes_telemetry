@@ -3,6 +3,8 @@
 
 Exploration of exporting game information through font color telemetry for Webcam and Quest 3.
 
+<img width="1918" height="1124" alt="image" src="https://github.com/user-attachments/assets/981428b5-e36e-4df8-a80d-71afcfd544ed" />
+
 ### Premise of this project:
 
 I created telemetry in *World of Warcraft* using an addon and Cheat Engine.
